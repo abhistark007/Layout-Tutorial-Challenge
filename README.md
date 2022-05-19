@@ -1,4 +1,15 @@
 # building_layout_app_1
+The original challenge/task: https://docs.flutter.dev/development/ui/layout/tutorial
+
+
+Screen shot:
+
+![image](https://user-images.githubusercontent.com/58290134/169289370-c6cf5b5c-e40d-464b-aa81-bc7e1a9c0c44.png)
+
+
+App Screen:
+
+![image](https://user-images.githubusercontent.com/58290134/169289420-d533752f-fbd1-441a-b679-33776d207891.png)
 
 A new Flutter project.
 
